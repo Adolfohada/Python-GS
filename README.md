@@ -1,4 +1,4 @@
-# Python-GS
+# Python-GS   Adolfo Kentaro Hada - rm556884 | Guilherme Flores - rm554948  |  Guilherme Palhari - RM557073
 
 A Costeira Limpa é uma ONG dedicada a proteger nossas praias e oceanos. Eles mobilizam voluntários e educam as comunidades sobre a importância de cuidar dos nossos ambientes marinhos.
 
